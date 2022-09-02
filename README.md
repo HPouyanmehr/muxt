@@ -4,9 +4,9 @@ This is a Next.js + MUI v5 starter which help you to start your project a lot ea
 
 ## How to use
 
-1. download files
-2. (optional) rename the folder if you want
-3. run `npm i` or `yarn`
+1. Clone the project.
+2. Rename the project in the `package.json` as well as the folder name, if you want. (optional)
+3. Run `npm i` or `yarn`.
 
 ## Tutorial
 
